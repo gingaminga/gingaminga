@@ -35,7 +35,6 @@
 
 ### ETC
 
-미래의 나를 위해 블로그에 글을 써요.<br/>
-놀러와주시면 더 좋아요. :)
+미래의 나를 위해 블로그에 글을 써요.
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gingaminga)](https://github.com/eungyeole/velog-readme-stats)
