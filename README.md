@@ -8,10 +8,13 @@
 <p>
 풀스택을 지향하는 프론트엔드 개발자입니다.
 살아가며 불편했던 것, 또는 필요한 것을들 개발을 통해 만들고 사용하는걸 좋아합니다.<br/>
-
 <u>폭 넓은 시야로 큰 그림을 그릴 수 있는 개발자</u>가 되는 것이 저의 <b>큰 목표</b>입니다.
-
 </p>
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gingaminga&layout=compact" alt="Most Used Languages" /></a>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+</div>
 
 ### Develop stack.
 
