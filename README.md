@@ -9,7 +9,7 @@
 풀스택을 지향하는 프론트엔드 개발자입니다.
 살아가며 불편했던 것, 또는 필요한 것을들 개발을 통해 만들고 사용하는걸 좋아합니다.<br/>
 
-<u>폭 넓은 시야로 큰 그림을 그릴 수 있는 개발자</u>가 되는 것이 저의 큰 목표입니다.
+<u>폭 넓은 시야로 큰 그림을 그릴 수 있는 개발자</u>가 되는 것이 저의 <b>큰 목표</b>입니다.
 
 </p>
 
@@ -33,5 +33,6 @@
 ### ETC
 
 미래의 나를 위해 블로그에 글을 써요.<br/>
+놀러와주시면 더 좋아요. :)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gingaminga)](https://github.com/eungyeole/velog-readme-stats)
