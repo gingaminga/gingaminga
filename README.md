@@ -37,4 +37,4 @@
 
 미래의 나를 위해 블로그에 글을 써요.
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gingaminga)](https://velog-readme-stats.vercel.app/api/redirect?name=gingaminga)
+[![Blog GitHub stats](https://velog-readme-stats.vercel.app/api?name=gingaminga)](https://blog-readme-stats-one.vercel.app/api/blog/card?url=https://dev-gingaminga.tistory.com/rss)
