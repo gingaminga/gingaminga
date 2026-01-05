@@ -37,4 +37,4 @@
 
 미래의 나를 위해 블로그에 글을 써요.
 
-[![Blog GitHub stats](https://blog-readme-stats-one.vercel.app/api/blog/card?url=https://dev-gingaminga.tistory.com/rss)](https://blog-readme-stats-one.vercel.app/api/blog/redirect?url=https://dev-gingaminga.tistory.com/rss)
+[![Blog GitHub stats]([https://blog-readme-stats-one.vercel.app/api/blog/card?url=https://dev-gingaminga.tistory.com/rss](https://blog-readme-stats-a6cdzkjig-gingamingas-projects.vercel.app/api/blog/card?url=https://dev-gingaminga.tistory.com/rss))](https://blog-readme-stats-one.vercel.app/api/blog/redirect?url=https://dev-gingaminga.tistory.com/rss)
