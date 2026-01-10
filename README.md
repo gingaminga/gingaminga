@@ -1,40 +1,26 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=25&duration=3000&pause=100&color=C5CCF7&background=F25EFF00&center=true&vCenter=true&random=false&width=435&lines=Hi+there+%3A);gingaminga's+playground%F0%9F%8E%88" alt="Typing SVG" /></a>
-<!-- https://readme-typing-svg.demolab.com/demo/ -->
+  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=25&duration=4000&pause=100&color=C5CCF7&background=F25EFF00&center=true&vCenter=true&random=false&width=435&lines=Frontend+Engineer,+gingaminga+:)" alt="Typing SVG" />
 </div>
 
-### Description.
+### 🧑‍💻 About Me
+아이디어를 구체적인 결과물로 만드는 과정을 즐기는 **프론트엔드 개발자**입니다.  
+살아가며 마주하는 불편함을 개발로 해결하고, 새로운 프로젝트를 기획하고 구축하는 데 열정이 있습니다.  
+성능 최적화와 유지보수가 용이한 구조 사이에서 최적의 균형을 찾으며 더 나은 사용자 경험을 고민합니다.
 
-<p>
-풀스택을 지향하는 개발자입니다.
-살아가며 불편했던 것, 또는 필요한 것을들 개발을 통해 만들고 사용하는걸 좋아합니다.<br/>
-<u>폭 넓은 시야로 큰 그림을 그리고 볼 수 있는 개발자</u>가 되는 것이 저의 <b>큰 목표</b>입니다.
-</p>
+### 🛠 Tech Stack
+#### Language
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gingaminga&layout=compact" alt="Most Used Languages" /></a>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-</div>
+#### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-### Develop stack.
+#### Backend & Database
+![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-#### Language & Environment
-
-<img src="https://shields.io/badge/typescript-3178C6?logo=typescript&logoColor=FFF&style=for-the-badge"/> <img src="https://shields.io/badge/node.js-339933?logo=nodedotjs&logoColor=FFF&style=for-the-badge"/>
-
-#### Library & Framework
-
-##### FE
-
-<img src="https://shields.io/badge/react-61DAFB?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledComponents&logoColor=white"/>
-<img src="https://img.shields.io/badge/react_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
-
-##### BE
-
-<img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-### ETC
-
-미래의 나를 위해 블로그에 글을 써요.
-
+### ✍️ Blog
+#### 최신글
 [![Blog GitHub stats](https://blog-readme-stats-one.vercel.app/api/blog/card?url=https://dev-gingaminga.tistory.com/rss)](https://blog-readme-stats-one.vercel.app/api/blog/redirect?url=https://dev-gingaminga.tistory.com/rss)
