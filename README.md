@@ -21,6 +21,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### ✍️ Blog
-#### 최신글
-[![Blog GitHub stats](https://blog-readme-stats-one.vercel.app/api/blog/card?url=https://dev-gingaminga.tistory.com/rss)](https://blog-readme-stats-one.vercel.app/api/blog/redirect?url=https://dev-gingaminga.tistory.com/rss)
+### 📝 Blog Posts
+
+[![Blog GitHub stats](https://blog-readme-stats-one.vercel.app/api/blog/card/list?rss=https://dev-gingaminga.tistory.com/rss)](https://dev-gingaminga.tistory.com)
