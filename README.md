@@ -1,11 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=600&size=25&duration=4000&pause=100&color=C5CCF7&background=F25EFF00&center=true&vCenter=true&random=false&width=435&lines=Frontend+Engineer,+gingaminga+:)" alt="Typing SVG" />
-</div>
-
 ### 🧑‍💻 About Me
-아이디어를 구체적인 결과물로 만드는 과정을 즐기는 **프론트엔드 개발자**입니다.  
-살아가며 마주하는 불편함을 개발로 해결하고, 새로운 프로젝트를 기획하고 구축하는 데 열정이 있습니다.  
-성능 최적화와 유지보수가 용이한 구조 사이에서 최적의 균형을 찾으며 더 나은 사용자 경험을 고민합니다.
+만들고, 고치고, 더 좋게 만드는 걸 좋아하는 **프론트엔드 개발자**입니다.  
+구조를 다듬는 순간이 제일 재미있습니다.
 
 ### 📝 Blog Posts
 
